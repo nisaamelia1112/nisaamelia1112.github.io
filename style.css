@@ -1,0 +1,15 @@
+body {
+	background-color: black
+}
+
+.carousel-item {
+	height: 670px;
+}
+.carousel-item img {
+	margin-top: 2px;
+	background-size: cover;
+	height: 660px;
+}
+.carousel-item h1 {
+	margin-top: -365px;
+}
